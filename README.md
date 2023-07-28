@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10C0F7&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Embrace+the+Tech+Horizon!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=10C0F7&center=true&vCenter=true&multiline=true&width=450&height=60&lines=Tech+Enthusiast;Embrace+the+Tech+Horizon!)](https://git.io/typing-svg)
