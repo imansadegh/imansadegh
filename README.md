@@ -1,4 +1,4 @@
-### Hi, I'm Civiliman 👋
+### Hi, I'm Iman.
 
 IT Specialist & freelance Network/DevOps engineer based in Tehran, Iran. I build
 and maintain infrastructure — networks, servers, and the automation that keeps
