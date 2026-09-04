@@ -1,5 +1,4 @@
 **Iman** — Tehran.
 
-Building with a small team.
+Building with a team.
 
-[@civiliman](https://twitter.com/civiliman)
